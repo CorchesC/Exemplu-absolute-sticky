@@ -1,0 +1,25 @@
+.relative {
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: 3px solid #ad2121;
+    margin-bottom: 100px;
+}
+.absolute {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #ad2121;
+    
+}
+.sticky {
+    position: sticky;
+    top: 0;
+    background-color: rgb(255, 2, 65);
+    border: 2px solid #af4c4c;
+}
+.text {
+    margin-bottom: 1000px;
+}
